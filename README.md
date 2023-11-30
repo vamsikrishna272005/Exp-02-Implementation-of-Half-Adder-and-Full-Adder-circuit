@@ -33,14 +33,16 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
-If the output is 1, then the led glows.
+ut is 1, then the led glows.
 ### 
 Program:
-/*
+/*![Screenshot 2023-11-26 144617](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/2b75618a-9b25-49e3-9776-3ce23ef99c83)
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: 
 RegisterNumber:  
-*/
+*/![Screenshot 2023-11-26 144724](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/424948fa-fdb9-46c3-8fa9-2ab41a8a95af)
+
 Logic symbol & Truthtable
 RTL realization
 
