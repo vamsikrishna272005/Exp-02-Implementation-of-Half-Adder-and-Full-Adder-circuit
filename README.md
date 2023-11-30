@@ -47,9 +47,12 @@ RTL realization
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
+![Screenshot 2023-11-26 142029](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/6dc7ebe5-1917-4cb3-b281-f7742975625f)
+![Screenshot 2023-11-26 142029](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/32bdcbf5-b9d3-4bb1-a95a-51206c38c373)
 
 
 ### TRUTH TABLE 
-![Screenshot 2023-11-26 142029](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/6dc7ebe5-1917-4cb3-b281-f7742975625f)
+![f957dcd7-bab5-41f1-a882-9321444fd298](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/64ca89ea-7bcf-40aa-a427-bf7da03c9a33)
+![ad8bdf24-9885-430e-9ba1-3de66a9436f4](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/def63454-9538-492b-a9d7-881cb3207fee)
 
 ### Result:
