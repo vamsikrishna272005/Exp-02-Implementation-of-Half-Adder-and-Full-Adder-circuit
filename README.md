@@ -20,12 +20,12 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 
- ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
+![Screenshot 2023-11-26 141707](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/ac4139cb-dc44-44bd-b617-f4eca350a75a)
 
 #### Figure -01 HALF ADDER 
 
 
-![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
+![Screenshot 2023-11-26 142950](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/efc86ac7-dd3a-4902-a9ea-2982ee8164a4)
 
 #### Figure -02 FULL ADDER 
 
@@ -50,5 +50,6 @@ RTL realization
 
 
 ### TRUTH TABLE 
+![Screenshot 2023-11-26 142029](https://github.com/vamsikrishna272005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147477015/6dc7ebe5-1917-4cb3-b281-f7742975625f)
 
 ### Result:
